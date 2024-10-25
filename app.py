@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-import pandas as pd 
+import pandas as pd
 import numpy as np
 import pickle
 import category_encoders as ce
